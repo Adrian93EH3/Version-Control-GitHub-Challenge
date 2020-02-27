@@ -1,0 +1,71 @@
+.amazon {
+   display: flex;
+    padding: 30px;
+    flex-direction: column;
+}
+.amazon1 {
+  width: 100px;
+    display: block;
+    margin: auto;
+    z-index: 2;
+    border: solid 2px black;
+}
+
+.info1 {
+  font-size: 20px;
+  background-color: #66C010;
+  width: 50%;
+  margin: 20px auto;
+  border: 5px solid #000;
+  padding: 10px;
+  line-height: 2;
+  margin-bottom:80px;
+  margin-top: -50px;
+}
+
+.microsoft {
+   display: flex;
+    padding: 30px;
+    flex-direction: column;
+}
+
+.microsoft1 {
+  width: 100px;
+    display: block;
+    margin: auto;
+    z-index: 1;
+    border: solid 2px black;
+}
+
+.concur {
+   display: flex;
+    padding: 30px;
+    flex-direction: column;
+}
+
+.concur1 {
+  width: 100px;
+    display: block;
+    margin: auto;
+    z-index: 1;
+    border: solid 2px black;
+}
+
+.tableau {
+   display: flex;
+    padding: 30px;
+    flex-direction: column;
+}
+
+.tableau1 {
+  height: 50px;
+  width: 100px;
+    display: block;
+    margin: auto;
+    z-index: 1;
+    border: solid 2px black;
+}
+.copyright {
+  color: white;
+  font-size: 20px;
+}

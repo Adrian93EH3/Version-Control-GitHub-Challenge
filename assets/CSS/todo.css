@@ -1,0 +1,50 @@
+.pride {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/3a/Microsoft_at_Seattle_Pride_2017.jpg");
+  height: 300px;
+  background-attachment: fixed;
+  background-position: center; /*image was full page, until centered, others worked just fine*/
+  background-size: cover;
+}
+
+.ppm {
+  background-image: url("https://images.unsplash.com/photo-1578209792699-58ad859c3cce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2734&q=80");
+  height: 300px;
+  background-attachment: fixed;
+  background-position: center; /*image was full page, until centered, others worked just fine*/
+  background-size: cover;
+}
+
+.sjp {
+  background-image: url("https://beautifulwashington.com/images/king-conty-parks-japanese-garden/Autumn%20colors%20Japanese%20garden%20Seattle.jpg");
+  height: 300px;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.paradiso {
+  background-image: url("https://www.youredm.com/wp-content/uploads/2015/05/fb.png");
+  height: 300px;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.footer {
+  text-align:center;
+  background-color:#6f456e;
+  height:120px;
+  padding:10px;
+}
+
+.logos {
+  height: 50px;
+}
+
+.arrow {
+  height: 50px;
+  display: block; /* to separate it from an auto inline, and makes it go down to next line*/
+  margin: 0 auto; /* centers image */
+}
+.copyright {
+  color: white;
+  font-size: 20px;
+}
